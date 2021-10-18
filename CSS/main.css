@@ -501,7 +501,7 @@ main section.articles .cards .read-more i {
   padding-right: 4px;
 }
 main section.articles .cards .card:hover .read-more i {
-  animation: infinite-arrow 600ms infinite linear;
+  animation: infinite-arrow 800ms infinite linear;
 }
 
 @keyframes infinite-arrow {
